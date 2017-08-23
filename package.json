@@ -1,0 +1,23 @@
+{
+  "name": "node_template_serveur",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VachetVirginie/node_template_serveur.git"
+  },
+  "author": "vivi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VachetVirginie/node_template_serveur/issues"
+  },
+  "homepage": "https://github.com/VachetVirginie/node_template_serveur#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "save": "^2.3.1"
+  }
+}
