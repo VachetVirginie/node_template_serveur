@@ -18,6 +18,8 @@
   "homepage": "https://github.com/VachetVirginie/node_template_serveur#readme",
   "dependencies": {
     "express": "^4.15.4",
+    "moustache": "0.0.2",
+    "mustache": "^2.3.0",
     "save": "^2.3.1"
   }
 }
